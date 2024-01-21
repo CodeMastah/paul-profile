@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Dejan Teofilovic</h1>
+<h1 align="center">Hi 👋, I'm Paul,Full-Stack Developer</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 <img src="./profile-3d-contrib/profile-green-animate.svg"/>
 
 
-- 📫 How to reach me **dejanteofilovic2@gmail.com**
+- 📫 How to reach me **pual@project-x.site**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
